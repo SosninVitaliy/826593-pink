@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Виталий Соснин](https://up.htmlacademy.ru/adaptive/15/user/826593).
-* Наставник: `Неизвестно`.
+* Наставник: `Иван Казанцев`.
 
 ---
 
